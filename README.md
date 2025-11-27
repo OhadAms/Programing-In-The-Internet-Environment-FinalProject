@@ -2,9 +2,6 @@
 ## Java Client-Server Graph Algorithms Project
 
 
----
-
-
 
 ## Table of Contents
 
