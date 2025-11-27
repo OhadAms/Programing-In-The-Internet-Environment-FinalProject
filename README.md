@@ -66,7 +66,7 @@ Clients can send requests to the server, which processes the data and returns re
 - Updates minimum weight paths and generates new paths for neighbors.  
 - Returns all lightest paths between source and target nodes.
 
----
+
 
 ## Libraries Used
 
@@ -77,7 +77,7 @@ Clients can send requests to the server, which processes the data and returns re
 - `java.net.Socket`  
 - `java.net.ServerSocket`  
 
----
+
 
 ## Server Architecture
 
@@ -144,15 +144,15 @@ java Clien
 
 ![Flow Chart 1](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_1.jpg)
 
---
+---
 
 ![Flow Chart 2](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_2.jpg)
 
---
+---
 
 ![Flow Chart 3](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_3.jpg)
 
---
+---
 
 ![Flow Chart 4](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_4.png)
 
