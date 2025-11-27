@@ -146,7 +146,16 @@ java Clien
 ## Class Diagrams
 
 ![Flow Chart 1](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_1.jpg) |
+
+---
+
 ![Flow Chart 2](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_2.jpg) |
+
+---
+
 ![Flow Chart 3](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_3.jpg) |
+
+---
+
 ![Flow Chart 4](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_4.png) |
 
