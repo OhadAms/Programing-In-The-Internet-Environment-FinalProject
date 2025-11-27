@@ -33,7 +33,7 @@ The server is capable of handling multiple clients concurrently, performing task
 
 Clients can send requests to the server, which processes the data and returns results efficiently.
 
----
+
 
 ## Algorithms
 
@@ -107,7 +107,7 @@ Thread clientHandling = new Thread(() -> {
 clientHandling.start();
 ```
 
----
+
 
 ## Usage
 
@@ -122,7 +122,7 @@ java Clien
 3. Send the data (graph or board) and request a specific algorithm.  
 4. Receive the results from the server.
 
----
+
 
 ## Features
 
@@ -130,7 +130,7 @@ java Clien
 - **Thread Safety:** Algorithms use thread-local storage (TLS) to prevent conflicts between clients.  
 - **Versatile Algorithms:** Supports graph traversal, shortest path, connected components, and submarine counting.  
 
----
+
 
 ## Notes
 
@@ -138,21 +138,21 @@ java Clien
 - Server handles multiple clients seamlessly without blocking.  
 - Suitable for educational purposes, algorithm demonstrations, and graph-based computation tasks.  
 
----
+
 
 ## Class Diagrams
 
 ![Flow Chart 1](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_1.jpg)
 
----
+--
 
 ![Flow Chart 2](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_2.jpg)
 
----
+--
 
 ![Flow Chart 3](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_3.jpg)
 
----
+--
 
 ![Flow Chart 4](https://github.com/OhadAms/Programing-In-The-Internet-Environment-FinalProject/blob/main/Flow%20Charts/Flow_Chart_4.png)
 
