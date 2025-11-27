@@ -1,7 +1,6 @@
 # Programing-In-The-Internet-Environment-FinalProject
 ## Java Client-Server Graph Algorithms Project
 
-Well designed Java Client Server Program where the server handles difficult tasks in a multithreaded environment.
 
 ---
 
@@ -25,6 +24,7 @@ Well designed Java Client Server Program where the server handles difficult task
 ---
 
 ## Overview
+Well designed Java Client Server Program where the server handles difficult tasks in a multithreaded environment.
 
 This Java project is a **client-server system** designed to handle graph-related computations and algorithms.  
 The server is capable of handling multiple clients concurrently, performing tasks such as:
