@@ -1,7 +1,8 @@
 # Programing-In-The-Internet-Environment-FinalProject
 ## Java Client-Server Graph Algorithms Project
----
 Well designed Java Client Server Program where the server handles difficult tasks in a multithreaded environment.
+---
+
 
 
 ## Table of Contents
